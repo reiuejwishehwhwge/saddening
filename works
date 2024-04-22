@@ -1,0 +1,32 @@
+<body> 
+
+<div class="header">
+    <h1> PROJECTS </h1>
+</div>
+
+<section class="hero"> 
+   <h1> JOURNALS </h1> 
+   <div class="pricing-plan"> 
+    <h3> Coffee Vintage </h3> 
+    <h4> Standard Notebook Size || Blank Page </h4> 
+    <p> At lowest price! 199PHP</p> <a href="" class="cta-button">View Product</a> 
+   </div> 
+   <div class="pricing-plan"> 
+    <h3> Dark Vintage </h3> 
+    <h4> Big size / Standard Notebook Size || Blank Page / Dot Page </h4> 
+    <p> At lowest price! 299PHP</p> <a href="#" class="cta-button">View Product</a> 
+   </div> 
+   <div class="pricing-plan"> 
+    <h3> Milky Vintage </h3> 
+    <h4> Big Size Only || LIne Page / Dot Page </h4> 
+    <p>Starting at 99PHP</p> <a href="#" class="cta-button">View Product</a> 
+   </div> 
+  </section> 
+  <section id="contact" class="contact"> 
+   <h2>Contact Us</h2> 
+   <p></p> <a href="VintageandJournals@Outlook.com" class="cta-button">Email Us</a> 
+  </section> 
+  <footer> 
+   <p> © All rights reserved 2024 </p> 
+  </footer>
+ </body>
